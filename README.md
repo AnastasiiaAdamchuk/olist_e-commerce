@@ -7,3 +7,8 @@ Table of content:
 4. Load data to postgres database.
 5. Create process flow diagram (Miro).
 
+
+
+![alt text](https://github.com/AnastasiiaAdamchuk/olist_e-commerce/blob/main/Olist%20data%20analysis%20process.jpg)
+
+
