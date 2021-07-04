@@ -5,4 +5,7 @@
 -- SELECT * FROM olist.olist_closed_deals_dataset LIMIT 10	
 
 -- measures and dimentions:
--- olist.olist_products_dataset pd, 
+-- pd olist.olist_products_dataset --> 
+-- oi olist.olist_order_items_dataset -->
+-- mqld olist.olist_marketing_qualified_leads_dataset -->
+-- cdd olist.olist_closed_deals_dataset -->
